@@ -1,0 +1,13 @@
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\bin\Debug\MedicalCardSystem.exe.config
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\bin\Debug\MedicalCardSystem.exe
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\bin\Debug\MedicalCardSystem.pdb
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.csproj.AssemblyReference.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.Properties.Resources.resources
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.csproj.GenerateResource.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalC.153DF9E1.Up2Date
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.exe
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.pdb
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Мюгюралинв\MedicalCardSystem\MedicalCardSystem\obj\Debug\MedicalCardSystem.exe.config
